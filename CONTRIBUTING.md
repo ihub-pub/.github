@@ -1,4 +1,4 @@
-# 🏗 开源贡献指南
+# 👨‍💻 开源贡献指南
 
 IHub欢迎大家为IHub贡献`Issues`以及`Pull Requests`，为开源社区做贡献，为了维护者更方便维护项目以及保障源码质量，请贡献者务必遵守[行为准则](CODE_OF_CONDUCT.md)以及如下规范。
 
@@ -18,4 +18,4 @@ IHub欢迎大家为IHub贡献`Issues`以及`Pull Requests`，为开源社区做�
 
 ## 💬 加入社区
 
-欢迎加入[社区](https://gitter.im/ihub-pub/community)参与讨论
+欢迎加入[社区](https://gitter.im/ihub-pub/community)参与讨论。
