@@ -1,0 +1,109 @@
+name: 🐛 Bug report
+description: 提交BUG
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        💭 提出问题前请思考以下几点：
+
+        - 这确实是一个问题吗？
+        - 这确实是这儿的问题吗？
+        - 可以用不同的方式解决吗？
+
+  - type: checkboxes
+    id: initial-checklist
+    attributes:
+      label: 检查清单
+      options:
+        - label: 我已阅读[支持文档](https://github.com/ihub-pub/.github/blob/main/SUPPORT.md)
+          required: true
+        - label: 我已阅读[贡献指南](https://github.com/ihub-pub/.github/blob/main/CONTRIBUTING.md)
+          required: true
+        - label: 我同意遵守[行为准则](https://github.com/ihub-pub/.github/blob/main/CODE_OF_CONDUCT.md)
+          required: true
+        - label: 我查找了[issues](https://github.com/search?q=user%3Aihub-pub&type=Issues)但找不到任何相关内容（或在下面链接了相关结果）
+          required: true
+
+  - type: input
+    id: affected-versions
+    attributes:
+      label: 受影响的软件包和版本
+      description: 请使用最新版本的相关软件包进行测试，以确保您的问题尚未得到解决。
+    validations:
+      required: true
+
+  - type: input
+    id: runnable-example
+    attributes:
+      label: 可运行的示例链接
+      description: 问题相关的可运行的示例储存库链接，或者描述一下的*复现步骤*。
+    validations:
+      required: false
+
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: 复现步骤
+      description: 问题如何出现的？请提供一个[最小的可重现示例](https://stackoverflow.com/help/minimal-reproducible-example).
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: 预期行为
+      description: 应该发生什么？
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual-behavior
+    attributes:
+      label: 实际行为
+      description: 实际发生什么？
+    validations:
+      required: true
+
+  - type: dropdown
+    id: javascript-runtime
+    attributes:
+      label: Java版本
+      description: 您的代码运行的Java环境。
+      multiple: true
+      options:
+        - Java8
+        - Java11
+        - Java17
+        - 其他（请在复现步骤说明版本）
+    validations:
+      required: false
+
+  - type: dropdown
+    id: package-manager
+    attributes:
+      label: Gradle版本
+      description: 您的代码运行的Gradle版本。
+      multiple: true
+      options:
+        - Gradle 5.6
+        - Gradle 6.8
+        - Gradle 7.0
+        - Gradle 7.1
+        - 其他（请在复现步骤说明版本）
+    validations:
+      required: false
+
+  - type: dropdown
+    id: operating-system
+    attributes:
+      label: 系统环境
+      description: What operating system are you using?
+      multiple: true
+      options:
+        - Windows
+        - Linux
+        - macOS
+        - 其他（请在复现步骤说明版本）
+    validations:
+      required: false
