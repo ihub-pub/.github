@@ -1,21 +1,17 @@
-# Security Policy
+# 👨‍🚒 安全政策
 
-## Supported Versions
+## 👨‍💻 承诺
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+使用[**ihub**](https://github.com/ihub-pub)，确保用户安全是我们的首要任务，欢迎外部安全研究人员的贡献。
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+## ☢ 范围
 
-## Reporting a Vulnerability
+如果您认为您在任何[**ihub**](https://github.com/ihub-pub)相关的项目发现安全问题，我们鼓励您通知我们。
 
-Use this section to tell people how to report a vulnerability.
+由于项目有时会在设计上做不安全的事情（例如某些情况下会执行不安全的操作），这种不安全的行为应该被明确地记录下来，如果是，则不被视为安全问题。
 
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+没有硬性规定来确定错误是否值得报告为安全问题或“常规”问题。如有疑问，请务必向我们发送报告。
+
+## 🙋‍♂ 如何提交报告
+
+可以通过向henry.box@outlook.com发送电子邮件报告安全问题，您将在48小时内收到回复。
