@@ -1,0 +1,53 @@
+name: ✨ Feature request
+description: 新的功能或者建议
+assignees: henry-hub
+labels: bug
+title: ✨ XXX
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        💭 提出问题前请思考以下几点：
+
+        - 这确实是一个问题吗？
+        - 这确实是这儿的问题吗？
+        - 可以用不同的方式解决吗？
+
+  - type: checkboxes
+    id: initial-checklist
+    attributes:
+      label: 检查清单
+      options:
+        - label: 我已阅读[支持文档](https://github.com/ihub-pub/.github/blob/main/SUPPORT.md)
+          required: true
+        - label: 我已阅读[贡献指南](https://github.com/ihub-pub/.github/blob/main/CONTRIBUTING.md)
+          required: true
+        - label: 我同意遵守[行为准则](https://github.com/ihub-pub/.github/blob/main/CODE_OF_CONDUCT.md)
+          required: true
+        - label: 我查找了[issues](https://github.com/search?q=user%3Aihub-pub&type=Issues)但找不到任何相关内容（或在下面链接了相关结果）
+          required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: 问题
+      description: 请描述您的需求或问题。
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: 解决方案
+      description: 描述您想要的解决方案。
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: 备择方案
+      description: 描述您考虑过的替代方案。
+    validations:
+      required: true
