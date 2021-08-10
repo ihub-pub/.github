@@ -6,7 +6,7 @@
 
 请理解，参与这个项目的人通常是为了个人爱好，在他们的日常工作之外；您无权获得免费客户服务。
 
-## 🙋 提问
+## 🙋‍♂ 提问
 
 欢迎加入[社区](https://gitter.im/ihub-pub/community)参与问题讨论
 
@@ -34,4 +34,4 @@
 
 ## 👨‍💻 开源贡献指南
 
-请阅读[贡献指南](https://github.com/ihub-pub/.github/blob/main/CONTRIBUTING.md)为该项目做出贡献
+请阅读[贡献指南](https://github.com/ihub-pub/.github/blob/main/CONTRIBUTING.md)为该项目做出贡献。
