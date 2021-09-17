@@ -1,4 +1,4 @@
 # These are supported funding model platforms
 
-github: [henry-hub, JetBrains]
+github: [JetBrains]
 custom: ['github.com/ihub-pub', 'gitee.com/ihub-pub']
