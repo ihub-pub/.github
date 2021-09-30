@@ -5,6 +5,6 @@
   url: "https://codecov.io/gh/$slug"
 
 - label: "Error Branch"
-  message: "$branchName"
+  message: "$payload.pull_request.base.ref"
   color: "#ff0000"
-  when: "$branchName !== 'main'"
+  when: "$payload.pull_request.base.ref !== 'main'"
