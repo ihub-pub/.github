@@ -1,7 +1,7 @@
 - imageUrl: "https://www.codefactor.io/repository/github/$slug/badge"
   url: "https://www.codefactor.io/repository/github/$slug"
 
-- imageUrl: "https://codecov.io/gh/$slug/branch/$branchName/graph/badge.svg?token=ZQ0WR3ZSWG"
+- imageUrl: "https://codecov.io/gh/$slug/branch/main/graph/badge.svg?token=ZQ0WR3ZSWG"
   url: "https://codecov.io/gh/$slug"
 
 - label: "Error Branch"
