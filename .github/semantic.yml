@@ -1,0 +1,20 @@
+enabled: false
+titleOnly: true
+# commitsOnly: true
+# titleAndCommits: true
+anyCommit: true
+# See: https://github.com/commitizen/conventional-commit-types/blob/v3.0.0/index.json
+types:
+  - feat
+  - fix
+  - docs
+  - style
+  - refactor
+  - perf
+  - test
+  - build
+  - ci
+  - chore
+  - revert
+# allowMergeCommits: true
+# allowRevertCommits: true
