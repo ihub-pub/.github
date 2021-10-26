@@ -1,4 +1,4 @@
-enabled: false
+# enabled: false
 titleOnly: true
 # commitsOnly: true
 # titleAndCommits: true
@@ -16,6 +16,28 @@ types:
   - ci
   - chore
   - revert
+  - ✨
+  - 🐛
+  - ✏️
+  - 🚑️
   - 📝
+  - 🎨
+  - ♻️
+  - ⚡️
+  - ✅
+  - 🏗️
+  - 👷
+  - 💚
+  - 🔥
+  - 🎉
+  - ⬇️
+  - ⬆️
+  - ⏪️
+  - 🔀
+  - 📦️
+  - 🚚
+  - 🔊
+  - 🔇
+  - 💬
 # allowMergeCommits: true
 # allowRevertCommits: true
