@@ -3,3 +3,6 @@ contact_links:
   - name: 🙋 Ask a question
     url: https://gitter.im/ihub-pub/community
     about: 提出问题并与其他社区成员讨论
+  - name: 📚 Document
+    url: https://doc.ihub.pub
+    about: 帮助文档
