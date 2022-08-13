@@ -14,20 +14,6 @@ body:
         - 这确实是这儿的问题吗？
         - 可以用不同的方式解决吗？
 
-  - type: checkboxes
-    id: initial-checklist
-    attributes:
-      label: 检查清单
-      options:
-        - label: 我已阅读[支持文档](https://github.com/ihub-pub/.github/blob/main/SUPPORT.md)
-          required: true
-        - label: 我已阅读[贡献指南](https://github.com/ihub-pub/.github/blob/main/CONTRIBUTING.md)
-          required: true
-        - label: 我同意遵守[行为准则](https://github.com/ihub-pub/.github/blob/main/CODE_OF_CONDUCT.md)
-          required: true
-        - label: 我查找了[issues](https://github.com/search?q=user%3Aihub-pub&type=Issues)但找不到任何相关内容（或在下面链接了相关结果）
-          required: true
-
   - type: input
     id: affected-versions
     attributes:
@@ -89,11 +75,10 @@ body:
       description: 您的代码运行的Gradle版本。
       multiple: true
       options:
-        - Gradle 5.6
-        - Gradle 6.8
         - Gradle 7.0
         - Gradle 7.1
         - Gradle 7.2
+        - Gradle 7.5
         - 其他（请在复现步骤说明版本）
     validations:
       required: false
