@@ -29,7 +29,4 @@
 	<a target="_blank" href="https://mvnrepository.com/artifact/pub.ihub.keel">
 		<img src="https://img.shields.io/maven-central/v/pub.ihub.keel/ihub-bom?color=white&label=IHub+Keel&labelColor=4298B8&logo=Apache+Groovy&logoColor=white" alt="Maven Central"/>
 	</a>
-	<a href="">
-		<img src="https://komarev.com/ghpvc/?label=👁+Views&username=ihub-pub" alt="Profile views counter" />
-	</a>
 </p>
