@@ -26,4 +26,7 @@
 	<a target="_blank" href="https://mvnrepository.com/artifact/pub.ihub.lib">
 		<img src="https://img.shields.io/maven-central/v/pub.ihub.lib/ihub-bom?color=white&label=IHub+Libs&labelColor=C71A36&logo=Apache+Maven&logoColor=white" alt="Maven Central"/>
 	</a>
+	<a target="_blank" href="https://mvnrepository.com/artifact/pub.ihub.keel">
+		<img src="https://img.shields.io/maven-central/v/pub.ihub.keel/ihub-bom?color=white&label=IHub+Keel&labelColor=4298B8&logo=Apache+Groovy&logoColor=white" alt="Maven Central"/>
+	</a>
 </p>
