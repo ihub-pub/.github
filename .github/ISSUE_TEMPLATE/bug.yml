@@ -79,6 +79,8 @@ body:
         - Gradle 7.1
         - Gradle 7.2
         - Gradle 7.5
+        - Gradle 7.6
+        - Gradle 8.0
         - 其他（请在复现步骤说明版本）
     validations:
       required: false
