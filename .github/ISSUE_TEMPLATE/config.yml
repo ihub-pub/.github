@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: 🙋 Ask a question
-    url: https://github.com/orgs/ihub-pub/discussions/categories/q-a
+    url: https://doc.ihub.pub?q&a
     about: 提出问题并与其他社区成员讨论
   - name: 📚 Document
     url: https://doc.ihub.pub
