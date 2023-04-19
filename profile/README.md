@@ -30,3 +30,9 @@
 		<img src="https://img.shields.io/maven-central/v/pub.ihub.keel/ihub-bom?color=white&label=IHub+Keel&labelColor=4298B8&logo=Apache+Groovy&logoColor=white" alt="Maven Central"/>
 	</a>
 </p>
+
+---
+
+<p align="center">
+  <a target="_blank" href="https://star-history.com/#ihub-pub/plugins&ihub-pub/libs&Timeline"><img src="https://api.star-history.com/svg?repos=ihub-pub/plugins,ihub-pub/libs&type=Timeline" alt="Star History Chart"></a>
+</p>
