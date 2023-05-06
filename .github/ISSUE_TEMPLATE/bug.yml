@@ -55,7 +55,7 @@ body:
       required: true
 
   - type: dropdown
-    id: javascript-runtime
+    id: java-version
     attributes:
       label: Java版本
       description: 您的代码运行的Java环境。
@@ -69,7 +69,7 @@ body:
       required: false
 
   - type: dropdown
-    id: package-manager
+    id: gradle-version
     attributes:
       label: Gradle版本
       description: 您的代码运行的Gradle版本。
@@ -81,6 +81,7 @@ body:
         - Gradle 7.5
         - Gradle 7.6
         - Gradle 8.0
+        - Gradle 8.1
         - 其他（请在复现步骤说明版本）
     validations:
       required: false
