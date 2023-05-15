@@ -1,8 +1,8 @@
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ABB2B9&height=120&section=header"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=17202A&height=120&section=header"/>
 </a>
 
-<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ABB2B9&size=35&center=true&vCenter=true&width=1000&lines=Hey+👋,+I'm+Henry;I'm+from+China;I'm+a+Backend+Developer;Be+Welcome!+👋) -->
+<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=17202A&size=35&center=true&vCenter=true&width=1000&lines=Hey+👋,+I'm+Henry;I'm+from+China;I'm+a+Backend+Developer;Be+Welcome!+👋) -->
 
 <p align="center">
   <a target="_blank" href="https://ihub.pub/"><img src="https://doc.ihub.pub/ihub_logo.svg" height="150" alt="IHub"></a>
@@ -44,5 +44,5 @@
 </p> -->
 
 <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ABB2B9&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=17202A&height=120&section=footer"/>
 </a>
