@@ -8,7 +8,7 @@
   <a target="_blank" href="https://ihub.pub/"><img src="https://doc.ihub.pub/ihub_logo.svg" height="150" alt="IHub"></a>
 </p>
 <p align="center">
-  <strong>⚔一套用于简化开发的神兵利器⚔</strong>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=17202A&size=20&center=true&vCenter=true&width=1000&lines=⚔+一套用于简化开发的神兵利器+⚔" alt="Typing SVG">
 </p>
 <p align="center">
 	<a target="_blank" href="https://github.com/ihub-pub">
@@ -36,6 +36,8 @@
 		<img src="https://img.shields.io/maven-central/v/pub.ihub.keel/ihub-bom?style=flat-square&color=ECF0F1ECF0F1&label=IHub+Keel&labelColor=4298B8&logo=Apache+Groovy&logoColor=white" alt="Maven Central"/>
 	</a>
 </p>
+
+<p align="center"><img src="../github-metrics.svg"/></p>
 
 <!-- ---
 
