@@ -37,7 +37,7 @@
 	</a>
 </p>
 
-<p align="center"><img src="../github-metrics.svg"/></p>
+<p align="center"><img src="https://doc.ihub.pub/github-metrics.svg"/></p>
 
 <!-- ---
 
