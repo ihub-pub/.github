@@ -26,6 +26,9 @@ version-resolver:
   patch:
     labels: 'patch'
   default: patch
+exclude-labels:
+  - 'github_actions'
+  - 'ignore'
 template: |
 
   $CHANGES
