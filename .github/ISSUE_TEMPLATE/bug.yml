@@ -64,6 +64,7 @@ body:
         - Java8
         - Java11
         - Java17
+        - Java21
         - 其他（请在复现步骤说明版本）
     validations:
       required: false
@@ -75,13 +76,12 @@ body:
       description: 您的代码运行的Gradle版本。
       multiple: true
       options:
-        - Gradle 7.0
-        - Gradle 7.1
-        - Gradle 7.2
-        - Gradle 7.5
-        - Gradle 7.6
         - Gradle 8.0
         - Gradle 8.1
+        - Gradle 8.2
+        - Gradle 8.3
+        - Gradle 8.4
+        - Gradle 8.5
         - 其他（请在复现步骤说明版本）
     validations:
       required: false
