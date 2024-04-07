@@ -10,19 +10,19 @@
 </p>
 <p align="center">
 	<a target="_blank" href="https://plugins.gradle.org/plugin/pub.ihub.plugin">
-		<img src="https://badge.ihub.pub/maven-metadata/v?style=flat-square&color=ECF0F1&label=IHub+Plugins&labelColor=02303A&logo=Gradle&metadataUrl=https%3A%2F%2Fplugins.gradle.org%2Fm2%2Fpub%2Fihub%2Fplugin%2Fihub-plugins%2Fmaven-metadata.xml" alt="IHub Plugins Gradle Plugin"/>
+		<img src="https://badge.ihub.pub/maven-metadata/v?style=flat-square&color=ECF0F1&label=Plugins&labelColor=02303A&logo=Gradle&metadataUrl=https%3A%2F%2Fplugins.gradle.org%2Fm2%2Fpub%2Fihub%2Fplugin%2Fihub-plugins%2Fmaven-metadata.xml" alt="IHub Plugins Gradle Plugin"/>
 	</a>
 	<a target="_blank" href="https://mvnrepository.com/artifact/pub.ihub.lib">
-		<img src="https://badge.ihub.pub/maven-central/v/pub.ihub.lib/ihub-bom?style=flat-square&color=ECF0F1&label=IHub+Libs&labelColor=C71A36&logo=Apache+Maven&logoColor=white" alt="Maven Central"/>
+		<img src="https://badge.ihub.pub/maven-central/v/pub.ihub.lib/ihub-bom?style=flat-square&color=ECF0F1&label=Libs&labelColor=C71A36&logo=Apache+Maven&logoColor=white" alt="Maven Central"/>
 	</a>
 	<a target="_blank" href="https://mvnrepository.com/artifact/pub.ihub.integration">
-		<img src="https://badge.ihub.pub/maven-central/v/pub.ihub.integration/ihub-bom?style=flat-square&color=ECF0F1&label=IHub+Integrations&labelColor=C71A36&logo=Apache+Maven&logoColor=white" alt="Maven Central"/>
+		<img src="https://badge.ihub.pub/maven-central/v/pub.ihub.integration/ihub-bom?style=flat-square&color=ECF0F1&label=Integrations&labelColor=C71A36&logo=Apache+Maven&logoColor=white" alt="Maven Central"/>
 	</a>
 	<a target="_blank" href="https://mvnrepository.com/artifact/pub.ihub.module">
-		<img src="https://badge.ihub.pub/maven-central/v/pub.ihub.module/ihub-bom?style=flat-square&color=ECF0F1&label=IHub+Modules&labelColor=C71A36&logo=Apache+Maven&logoColor=white" alt="Maven Central"/>
+		<img src="https://badge.ihub.pub/maven-central/v/pub.ihub.module/ihub-bom?style=flat-square&color=ECF0F1&label=Modules&labelColor=C71A36&logo=Apache+Maven&logoColor=white" alt="Maven Central"/>
 	</a>
 <!-- 	<a target="_blank" href="https://mvnrepository.com/artifact/pub.ihub.keel">
-		<img src="https://badge.ihub.pub/maven-central/v/pub.ihub.keel/ihub-bom?style=flat-square&color=ECF0F1&label=IHub+Keel&labelColor=4298B8&logo=Apache+Groovy&logoColor=white" alt="Maven Central"/>
+		<img src="https://badge.ihub.pub/maven-central/v/pub.ihub.keel/ihub-bom?style=flat-square&color=ECF0F1&label=Keel&labelColor=4298B8&logo=Apache+Groovy&logoColor=white" alt="Maven Central"/>
 	</a> -->
 </p>
 <p align="center">
