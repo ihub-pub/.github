@@ -19,12 +19,12 @@ categories:
 change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
 change-title-escapes: '\<*_&'
 version-resolver:
-  major:
-    labels: 'major'
-  minor:
-    labels: 'minor'
-  patch:
-    labels: 'patch'
+  # major:
+  #   labels: 'major'
+  # minor:
+  #   labels: 'minor'
+  # patch:
+  #   labels: 'patch'
   default: patch
 exclude-labels:
   - 'github_actions'
