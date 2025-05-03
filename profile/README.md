@@ -38,9 +38,6 @@
 	<a target="_blank" href="https://gitter.im/ihub-pub/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge">
 		<img src="https://badge.ihub.pub/badge/Gitter-45af90.svg?style=flat-square&logo=Gitter&logoColor=white" alt="Chat On Gitter"/>
 	</a>
-	<a target="_blank" href="https://www.jetbrains.com">
-		<img src="https://badge.ihub.pub/badge/JetBrains-ECF0F1.svg?style=flat-square&logo=JetBrains&logoColor=black" alt="Thanks to JetBrains for sponsoring"/>
-	</a>
 </p>
 
 <!-- ---
